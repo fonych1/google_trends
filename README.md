@@ -11,6 +11,12 @@ $ make lock
 $ make install
 ```
 
+# Run
+create .env file and run
+```commandline
+$ docker compose up --build
+```
+
 
 # Explanation
 I used csv file as database since this server will only run once :D but also
